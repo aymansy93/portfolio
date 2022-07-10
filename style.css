@@ -61,8 +61,8 @@ section{
     display: inline-block;
     margin-top: 10px;
     color: #163FE7;
-    font-size: 3em;
-    font-weight: 600;
+    font-size: 2.5em;
+    font-weight: 500;
 }
 .main h3{
     color: #fff;
@@ -234,6 +234,9 @@ footer .social-icons a{
         padding: 80px 20px;
     }
     .main h2{
+        font-size: 1em;
+    }
+    .main h2 span{
         font-size: 1em;
     }
     .main h3{
